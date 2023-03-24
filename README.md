@@ -32,9 +32,9 @@ A Trello board was used to keep track of development progress and can be viewed 
 
 ### **_Development Diagrams_**
 
-[ERD](https://lucid.app/lucidchart/1ce37c4c-c33f-43ae-9178-9490455afcd8/edit?beaconFlowId=A9EC68CA27FAC906&page=0_0&invitationId=inv_bf5a0378-2e38-43ed-9783-9abc682097e7#)
+[Component Hierarchy Diagram](https://lucid.app/lucidchart/1ce37c4c-c33f-43ae-9178-9490455afcd8/edit?beaconFlowId=A9EC68CA27FAC906&page=0_0&invitationId=inv_bf5a0378-2e38-43ed-9783-9abc682097e7#)
 
-[Component Hierarchy Diagram](https://lucid.app/lucidchart/6b164dad-1bbd-4bc1-8e33-b784d5a8a5b1/edit?beaconFlowId=E67BFD2638FEAEFD&page=0_0&invitationId=inv_993602db-90db-4fa0-8123-1a941bb98b8b#)
+[ERD](https://lucid.app/lucidchart/6b164dad-1bbd-4bc1-8e33-b784d5a8a5b1/edit?beaconFlowId=E67BFD2638FEAEFD&page=0_0&invitationId=inv_993602db-90db-4fa0-8123-1a941bb98b8b#)
 
 ##### ERD
 
